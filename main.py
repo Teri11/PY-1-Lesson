@@ -17,6 +17,6 @@ quantity = input("How many Coffees would you like?\n")
 
 total = price * int(quantity)
 
-print("Thank you "+name+ ".Your total price is: $" + str(total))
+print("Thank you"".Your total price is: $" + str(total))
 
-print("Sounds good, we will have that"+" " +order+" "+"ready for you in a moment.")
+print("Sounds good "+name+ ", we'll have your"+" " +quantity+" " +order+" "+"ready for you in a moment.")
