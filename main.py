@@ -15,4 +15,8 @@ price = 8
 
 quantity = input("How many Coffees would you like?\n")
 
+total = price * int(quantity)
+
+print("Thank you "+name+ ".Your total price is: " + str(total))
+
 print("Sounds good"+" "+ name+ ", we will have that"+" " +order+" "+"ready for you in a moment.")
