@@ -1,4 +1,5 @@
 #Lets build a robot Barista.......
+
 print("Hello, Welcome  to Sharp Jr. Coffee sessions!!!!!!!!!!")
 
 name = input("What is your name?\n")
@@ -9,5 +10,9 @@ menu = "Expresso, Black Coffee, Latte, Cappuciano"
 print(name +", " + "What would you like from our menu today? Here is what we are serving.\n" + menu)
 
 order = input()
+
+price = 8
+
+quantity = input("How many Coffees would you like?\n")
 
 print("Sounds good"+" "+ name+ ", we will have that"+" " +order+" "+"ready for you in a moment.")
