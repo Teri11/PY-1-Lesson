@@ -1,4 +1,6 @@
-#Lets build a robot Barista.......
+#Let's start a coffee shop togther!! We're 
+# going to build a coffee shop using some new
+# python programming concepts!!! Robot Barista.......
 
 print("Hello, Welcome  to Sharp Jr. Coffee sessions!!!!!!!!!!")
 
